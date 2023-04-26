@@ -1,0 +1,43 @@
+# INTRODUCTION:~
+Hlw! I'm Ayanabha Chatterjee , I'm 19 th years old a student of BRAINWARE UNIVERSITY (Barasat Campus).
+Student of BCA department. In this department we learn so many topic , but I spacially focused on my self improvement.
+I'm intrested about Full Stack Web Devolopment.and also I have some basic knowlage about C++ , SQL .....(I try to learn more) 
+and I have some spacial focus in PYTHON . I learn DSA in PYTHON. I have some extra knowlage about another computer activities 
+like BASIC GRAPHIC DESIGNING ,BASIC MS WORD/PPT/XL.I spacially believe in my self that I'm a still beginner in these field. 
+So if I have any mistake about anything ,I'm apologyest for that, and I always ready to learn anything,I think "always ready 
+to learn" about any knowlageble thing, I believe it's my spacial quality ever.
+
+# CORE CONCPET:~
+Website Name: HeroCoder
+Description: A basic Website for programmers.
+About: I only build the frontend part as a frontend project. No backend functionality available in this website.
+       I build the frontend part using only Bootstrap (Frame wrok), as a Bootstrap complite project. Spacially 
+       I focused on UI (User Interface) part, to make a professional viewport.
+
+# PARTS:~
+I have divided the website into 8 parts >NavBar
+                                        >Carousel
+                                        >First Body
+                                        >Second Body
+                                        >Third Body
+                                        >Hero
+                                        >Pagination
+                                        >Footer
+ & 
+ I added extra two pages - Login and SignUp.
+ 
+ # SOURCES:~
+
+IMAGE SOURCE >
+https://source.unsplash.com/1400x400/?coding
+https://source.unsplash.com/400x400/?laptop
+https://source.unsplash.com/500x400/?coding
+
+ICONE >
+istockphotos
+
+BOOTSTRAP WEBSITE SOURCE >
+Link: https://getbootstrap.com/
+
+
+
